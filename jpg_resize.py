@@ -7,7 +7,7 @@ from pathlib import Path
 
 from PIL import Image
 
-SCALE = 0.5
+SCALE = 0.80
 SUFFIX = "_resize"
 QUALITY = 95
 

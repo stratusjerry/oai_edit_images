@@ -4,6 +4,11 @@ __pycache__/
 *$py.class
 
 .venv/
+uv.lock
+oai_batch.json
+
+*.html
+
 *.jpg
 *.png
 *.zip
